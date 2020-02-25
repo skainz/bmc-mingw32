@@ -1,0 +1,1 @@
+cmake . -DXercesC_INCLUDE_DIR=/usr/local/xerces/xerces-c-3.0.1/include -DXercesC_LIBRARY=/usr/local/xerces/xerces-c-3.0.1/lib/libxerces-c.a -DBOOST_ROOT=/usr/local/boost -DXSDCXX_INCLUDE_DIR=/usr/local/xsd-4.0.0-x86_64-linux-gnu/libxsd -DCMAKE_CXX_FLAGS=-I/usr/local/xerces/xerces-c-3.0.1/include
